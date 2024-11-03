@@ -60,9 +60,6 @@
                 </div>
 
                 <input type="submit" value="NOMBRE">
-
-                <button type="submit">Intro</button>
-
                
 
             </form>
